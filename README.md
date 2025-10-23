@@ -77,5 +77,3 @@ Este projeto foi desenvolvido por:
 - Tatyane Gonçalves
   - [GitHub](https://github.com/tatyanepgoncalves)
   - [LinkedIn](https://www.linkedin.com/in/tatyanegoncalves/)
-
-(Opcional: Adicione links para LinkedIn, Portfolio, etc.)
